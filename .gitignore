@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# Reports
+coverage
+
+# Scanner
+.scannerwork
